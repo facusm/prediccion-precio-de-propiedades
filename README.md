@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de aprendizaje automáti
 
 Se diseñaron y entrenaron modelos específicos para cada tipo de propiedad (casas, departamentos y cocheras), dado que no todos los atributos están presentes o son relevantes en todos los casos. Esta diferenciación permite mejorar la precisión de las estimaciones y adaptarse mejor a las particularidades de cada segmento del mercado inmobiliario.
 
-📄 [Jupyter Notebook para el análisis](https://github.com/login)
+📄 [Jupyter Notebook para el análisis](https://github.com/facusm/prediccion-precio-de-propiedades/blob/main/Predicci%C3%B3n_Precio_de_Propiedades.ipynb)
 
 ---
 
@@ -36,6 +36,7 @@ Se diseñaron y entrenaron modelos específicos para cada tipo de propiedad (cas
 
 <pre>
 prediccion-precio-de-propiedades/
+├── .gitignore                              # Ignorar archivos innecesarios o pesados
 ├── README.md                               # Documentación principal
 ├── Prediccion_Precio_de_Propiedades.ipynb  # Notebook principal
 ├── data/                                   # Carpeta con datos
